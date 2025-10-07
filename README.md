@@ -79,9 +79,9 @@ The models were evaluated based on their ability to correctly identify fraudulen
 ---
 ## How to cite / contact
 
-Author: Arshad Murtaza
-GitHub: https://github.com/arshadmurtaza03/credit-card-fraud-detection.git
-Email: arshadmurtaza2016@gmail.com
+- Author: Arshad Murtaza
+- GitHub: https://github.com/arshadmurtaza03/credit-card-fraud-detection.git
+- Email: arshadmurtaza2016@gmail.com
 
 
 
